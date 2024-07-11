@@ -40,6 +40,7 @@ class ClothingGallery extends React.Component {
     render() {
       return <div className="main">
         <h3 className="title">Take a Sneak Peek 👀</h3>
+        <h3 className="title"> at our good quality 💍, tasteful 🤌, and awesome things 👑</h3>
         <div className="wrapper">
           <a className="prev" onClick={this.scroll.bind(null,-1)}>&#10094;</a>
           <div className="image-container">

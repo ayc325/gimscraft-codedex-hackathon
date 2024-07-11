@@ -12,7 +12,7 @@ const AboveTheFold = () => {
             </div>
             <div class='text-on-image'>
                 <h1>South Brooklyn Stoop Sale</h1>
-                <h2>"Your Trash, Someone Else's Treasure"</h2>
+                <h2>"Your Trash 🗑️, Someone Else's Treasure 💰"</h2>
             </div>
         </div>
         </header>

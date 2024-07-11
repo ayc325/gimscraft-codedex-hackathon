@@ -1,62 +1,50 @@
-# codex-hackathon
+# Codedex Hackathon - Track 2: Stoop Sale Invitation Website - *Angela's Prototype*
+
+Submitted by: **Angela Cui**
+
+This website: **Is an interactive webpage to invite people in the South Brooklyn area to a Stoop Sale**
+
+## Criteria
+
+The following **required** functionality is completed:
+
+- [X] **There is a unique interactive feature relevant to the Stoop Sale**
+- [X] **There is a Map API**
+- [X] **Date and Time is displayed**
+- [ ] **Shareability**
+- [X] **Good Vibes**
+
+The following **additional** features are impleted:
+
+- [X] **Gallery of clothes/surrounding area they're selling and try to pull them into like "do you wanna buy this?"**
+- [X] **FAQ Section in the form of an accordion**
+- [X] **Invitation leads to a Google Calendar Event so the user can add it to their Calendar and RSVP**
+
+## Works Cited
+
+- Accordion created with [SitePoint](https://www.sitepoint.com/react-js-accordion-component/)
+- Scroll Gallery created with [CodePen](https://codepen.io/rmody3/pen/EXObmR)
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented features:
+
+
+GIF created with [Kap](https://getkap.co/) for macOS and Giphy.
+
+## Notes
+
+Describe an challenges encountered while doing the hackathon project.
+
+Some challenges I faced was with CSS and overflow X scrolling in images. I was able to fix this by setting a max-width.
+
+Describe some features you would include further if you had more time.
+
+I would like to incorporate more dynamic pages like making it mobile friendly using media queries if I had more time.
+
+## Running the app
 
 - npm install
 - npm run dev
 
-## React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Criteria
-
-[ ] Interactive: 
-
-    [ ] Gallery of clothes they're selling and try to pull them into like "do you wanna buy this?"
-
-    [ ] Anchor page tag them to the location and time of the place
-
-    [ ] Sneak Peek into what they're selling
-
-        Hover to see, initially blurred a bit with siloutte of the outfits
-
-        maybe like somewhat like a puzzle? game? 
-
-        South Brooklyn : find landmarks of the place nearby or something?
-
-        Do you like high quality and tasteful fashion?
-
-        Do you recognize this building?
-
-        good quality tasteful awesome things
-
-    [ ] Above the Fold: 
-
-        "Your trash, someone else's treasure"
-
-        "it's a garage sale, but ✨ better ✨"
-
-    [ ] FAQ Section
-
-[ ] Date and Time
-
-[X] Use Map API
-    - Carroll Gardens: corner of Court St and 2nd Pl
-
-[ ] Shareability
-
-    [ ] Mobile Friendly
-
-    [ ] FAQ Section (use anchor tags)
-
-[ ] Good Vibes
-
-    [ ] Color Palette:
-
-        [ ] not sure...
-
-        
