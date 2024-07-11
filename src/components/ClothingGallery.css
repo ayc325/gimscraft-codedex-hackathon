@@ -1,9 +1,9 @@
 .main {
     text-align: center;
-    height: 50vh;
+    height: 40vh;
     flex-direction: column;
     justify-content: space-around;
-    padding-bottom: 20px;
+    padding-top: 20px;
   }
 
 h3{
