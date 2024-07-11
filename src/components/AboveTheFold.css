@@ -1,6 +1,7 @@
 .Header {
     width: 100%;
     position: relative;
+    overflow: hidden;
 }
 #clothes3{
     width: 100%;
