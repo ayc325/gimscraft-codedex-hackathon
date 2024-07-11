@@ -7,15 +7,18 @@ import Calendar from './components/Calendar';
 import ClothingGallery from './components/ClothingGallery';
 import Faq from './components/Faq';
 
+
 function App() {
   const [count, setCount] = useState(0)
   return (
       <div className = "App">
         <AboveTheFold />
-        <ClothingGallery />
-        <Calendar />
-        <h3>Frequently Asked Questions 🤔</h3>
-        <Faq />
+        <div id = "gallerys"><ClothingGallery /></div>
+        <div id = "invitation"><Calendar /></div>
+        <div id = "faqs">
+          <h3>Frequently Asked Questions 🤔</h3>
+          <Faq />
+        </div>
       </div>
   )
 }

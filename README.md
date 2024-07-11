@@ -11,7 +11,7 @@ The following **required** functionality is completed:
 - [X] **There is a unique interactive feature relevant to the Stoop Sale**
 - [X] **There is a Map API**
 - [X] **Date and Time is displayed**
-- [ ] **Shareability**
+- [X] **Shareability**
 - [X] **Good Vibes**
 
 The following **additional** features are impleted:
@@ -23,7 +23,7 @@ The following **additional** features are impleted:
 ## Works Cited
 
 - Accordion created with [SitePoint](https://www.sitepoint.com/react-js-accordion-component/)
-- Scroll Gallery created with [CodePen](https://codepen.io/rmody3/pen/EXObmR)
+- Scroll Gallery created with [CodePen](https://codepen.io/rmody3/pen/EXObmR) and [Medium](https://medium.com/@RahulTMody/create-a-scrolling-image-slider-in-react-1e4eddcd407b)
 
 ## Video Walkthrough
 
