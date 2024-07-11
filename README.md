@@ -19,6 +19,8 @@ The following **additional** features are impleted:
 - [X] **Gallery of clothes/surrounding area they're selling and try to pull them into like "do you wanna buy this?"**
 - [X] **FAQ Section in the form of an accordion**
 - [X] **Invitation leads to a Google Calendar Event so the user can add it to their Calendar and RSVP**
+- [X] **Deployed on Vercel** [Here](https://gimscraft-codedex-hackathon.vercel.app/)
+
 
 ## Works Cited
 

@@ -10,5 +10,9 @@ h3{
     width: 100%;
     justify-content: space-around;
     display: inline-block;
-    background-color: #EDDABA;
+    background-color: #D7BFA7;
+}
+
+#invitation-button{
+    margin-top: 20px;
 }
