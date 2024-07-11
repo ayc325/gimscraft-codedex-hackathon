@@ -1,0 +1,15 @@
+.Header {
+    width: 100%;
+    position: relative;
+}
+#clothes3{
+    width: 100%;
+}
+.text-on-image {
+   position: absolute;
+   right: 20%;
+   left: 20%;
+   bottom: 15%;
+   background-color: rgba(128,128, 128, 0.7);
+}
+ 
