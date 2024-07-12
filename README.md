@@ -29,7 +29,7 @@ The following **additional** features are impleted:
 ## Works Cited
 
 - Accordion created with [SitePoint](https://www.sitepoint.com/react-js-accordion-component/)
-- Scroll Gallery created with [CodePen](https://codepen.io/rmody3/pen/EXObmR) and [Medium](https://medium.com/@RahulTMody/create-a-scrolling-image-slider-in-react-1e4eddcd407b)
+- Scroll Gallery created with [Alice Carousel](https://maxmarinich.github.io/react-alice-carousel/#basic)
 
 ## Video Walkthrough
 
@@ -43,7 +43,9 @@ GIF created with [Kap](https://getkap.co/) for macOS and Giphy.
 
 Describe an challenges encountered while doing the hackathon project.
 
-Some challenges I faced was with CSS and overflow X scrolling in images. I was able to fix this by setting a max-width.
+Some challenges I faced was with CSS and overflow X scrolling in images. I was able to fix this by setting a max-width. 
+
+I also faced a challenge where the original slide carousel's arrows wouldn't work and wouldn't comply with my css file. I resolved this by using Alice Carousel instead since the one before had jQuery which I don't know how to use.
 
 Describe some features you would include further if you had more time.
 
