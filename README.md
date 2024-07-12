@@ -35,6 +35,7 @@ The following **additional** features are impleted:
 
 Here's a walkthrough of implemented features:
 ![Video Walkthrough](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZwY3Bicmo2bGU3a2RteXB5Z2hreTQwczNucm90bmoycWFseng4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1f28v8NcOcvIamzcP/giphy.gif)
+
 GIF created with [Kap](https://getkap.co/) for macOS and Giphy.
 
 ## Notes
