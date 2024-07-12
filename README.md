@@ -41,13 +41,13 @@ GIF created with [Kap](https://getkap.co/) for macOS and Giphy.
 
 ## Notes
 
-Describe an challenges encountered while doing the hackathon project.
+**Describe an challenges encountered while doing the hackathon project.**
 
 Some challenges I faced was with CSS and overflow X scrolling in images. I was able to fix this by setting a max-width. 
 
 I also faced a challenge where the original slide carousel's arrows wouldn't work and wouldn't comply with my css file. I resolved this by using Alice Carousel instead since the one before had jQuery which I don't know how to use.
 
-Describe some features you would include further if you had more time.
+**Describe some features you would include further if you had more time.**
 
 I would like to incorporate more pages and add an puzzle game like feature where for every Brooklyn landmark the user gets right, they get to have a sneak peek at a new piece of clothing that will be at the stoop sale.
 
