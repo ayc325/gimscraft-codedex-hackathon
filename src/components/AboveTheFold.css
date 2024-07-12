@@ -1,16 +1,29 @@
+
+#clothes3{
+    width: 100%;
+}
 .Header {
     width: 100%;
     position: relative;
     overflow: hidden;
 }
-#clothes3{
-    width: 100%;
-}
+
 .text-on-image {
    position: absolute;
-   right: 20%;
-   left: 20%;
-   bottom: 15%;
-   background-color: rgba(128,128, 128, 0.7);
+   right: 15%;
+   left: 15%;
+   bottom: 20%;
+   background-color: rgba(151, 135, 91, 0.7);
+   border-radius: 8px;
+   border: 1px solid white;
 }
- 
+h1{
+    font-style: italic;
+    color: white;
+
+}
+h2{
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+}
+

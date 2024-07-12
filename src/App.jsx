@@ -6,6 +6,7 @@ import AboveTheFold from './components/AboveTheFold';
 import Calendar from './components/Calendar';
 import ClothingGallery from './components/ClothingGallery';
 import Faq from './components/Faq';
+import Footer from './components/Footer';
 
 
 function App() {
@@ -16,9 +17,10 @@ function App() {
         <div id = "gallerys"><ClothingGallery /></div>
         <div id = "invitation"><Calendar /></div>
         <div id = "faqs">
-          <h3>Frequently Asked Questions 🤔</h3>
+          <h3>frequently asked questions 🤔</h3>
           <Faq />
         </div>
+        <Footer />
       </div>
   )
 }

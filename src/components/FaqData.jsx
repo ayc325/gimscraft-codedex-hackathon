@@ -8,12 +8,12 @@ const data = [
     },
     {
      question: 'when is the stoop sale?',
-     answer: 'Saturday, July 27th 11 A.M. - 3 P.M.',
+     answer: 'saturday, july 27th 11 a.m. - 3 p.m.',
      other: '',
     },
     {
      question: 'where is it located?',
-     answer: 'on the corner of Court St and 2nd Pl in Carroll Gardens',
+     answer: 'on the corner of court st and 2nd pl in carroll gardens',
      other: <Map />,
     },
     {

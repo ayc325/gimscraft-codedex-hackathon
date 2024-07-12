@@ -20,6 +20,9 @@ The following **additional** features are impleted:
 - [X] **FAQ Section in the form of an accordion**
 - [X] **Invitation leads to a Google Calendar Event so the user can add it to their Calendar and RSVP**
 - [X] **Deployed on Vercel** [Here](https://gimscraft-codedex-hackathon.vercel.app/)
+- [X] **Zoom out on mobile to view page**
+- [X] **Made sure every image in the page is less than 300kb except for the ~600kb header image**
+- [X] **Used color palettes similar to what the video showed**
 
 
 ## Works Cited

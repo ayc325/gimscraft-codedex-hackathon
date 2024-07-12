@@ -5,6 +5,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, 0%);
+    text-decoration: none;
   }
   
   .wrapper {
@@ -24,6 +25,9 @@
     background: #D7BFA7;
     border: none;
     cursor: pointer;
+    border-radius: 8px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
   }
   
   .question-container.active {
@@ -53,7 +57,7 @@
   }
   
   .wrapper .answer-content {
-    padding: 1rem 0;
+    padding: 1rem 0 10px 0;
     font-size: 20px;
     font-style: italic;
   }

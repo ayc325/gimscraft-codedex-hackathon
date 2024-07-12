@@ -11,8 +11,8 @@ const AboveTheFold = () => {
                 <img id = 'clothes3' src={clothes3}/>
             </div>
             <div class='text-on-image'>
-                <h1>South Brooklyn Stoop Sale</h1>
-                <h2>"Your Trash 🗑️, Someone Else's Treasure 💰"</h2>
+                <h1>south brooklyn stoop sale</h1>
+                <h2>"your trash 🗑️, someone else's treasure 💰"</h2>
             </div>
         </div>
         </header>

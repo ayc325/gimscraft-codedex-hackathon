@@ -1,9 +1,11 @@
 h3{
     color: black;
+    font-style: italic;
+    font-size: 20pt;
 }
 
 .dateEmbed{
-    margin-top: 60px;
+    margin-top: 120px;
     margin-bottom: 30px;
     padding-top: 40px;
     padding-bottom: 40px;
@@ -15,4 +17,22 @@ h3{
 
 #invitation-button{
     margin-top: 20px;
+    border-radius: 8px;
+    border: 1px solid transparent;
+    padding: 0.6em 1.2em;
+    font-size: 1em;
+    font-weight: 500;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color: black;
+    cursor: pointer;
 }
+
+#invitation-button:hover {
+  border-color: #FFFFFF;
+}
+#invitation-button:focus,
+#invitation-button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+    

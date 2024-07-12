@@ -6,8 +6,8 @@ const Calendar = () => {
   
     return (
       <div className = "dateEmbed">
-            <h3>You're Invited! 💌</h3>
-            <h3>Join us on Saturday, July 27 @ 11 A.M. - 3 P.M. at Court St. & 2nd Pl.</h3>
+            <h3>you're invited! 💌</h3>
+            <h3>join us on saturday, july 27 @ 11 a.m. - 3 p.m. at court st. & 2nd pl.</h3>
             <Map />
             <button
                 id = "invitation-button"
@@ -16,7 +16,7 @@ const Calendar = () => {
                 e.preventDefault();
                 window.open('https://calendar.app.google/iXuCYYJvHjVNBaYR6', "_blank")
             }}
-            > Click Here to Add to your Calendar!</button>
+            > click here to add to your calendar!</button>
            </div>
     )
   }
