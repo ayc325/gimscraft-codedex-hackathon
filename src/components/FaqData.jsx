@@ -20,7 +20,12 @@ const data = [
      question: 'can i bring items to trade instead of paying with money?',
      answer: 'trades are possible if your item is just as good quality, tasteful, and awesome. we cannot guarantee a trade will happen though.',
      other: '',
-    }
+    },
+    {
+        question: 'who is hosting this stoop sale?',
+        answer: 'chelsea and lil are hosting this stoop sale!',
+        other: '',
+       }
    ];
   
    export default data;
