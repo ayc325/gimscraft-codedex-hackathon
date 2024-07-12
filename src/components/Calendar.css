@@ -5,7 +5,6 @@ h3{
 }
 
 .dateEmbed{
-    margin-top: 120px;
     margin-bottom: 30px;
     padding-top: 40px;
     padding-bottom: 40px;
@@ -36,3 +35,14 @@ h3{
   outline: 4px auto -webkit-focus-ring-color;
 }
     
+
+@media (width <= 480px){
+    h3{
+        font-size: auto;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    #invitation-button{
+        width: 75%;
+    }
+}

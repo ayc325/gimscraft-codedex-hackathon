@@ -4,6 +4,8 @@
     flex-direction: column;
     justify-content: space-around;
     padding-top: 20px;
+    padding-bottom: 50px;
+    margin-bottom: 120px;
   }
 
 h3{
@@ -59,3 +61,24 @@ h3{
     background-color: rgba(0,0,0,0.8);
   }
   
+
+  @media (width <= 700px){
+    .main{
+        margin-bottom: 200px;
+    }
+
+  }
+
+  @media (width <= 480px){
+    .main{
+        margin-bottom: 300px;
+    }
+
+  }
+
+  @media (width <= 320px){
+    .main{
+        margin-bottom: 350px;
+    }
+
+  }

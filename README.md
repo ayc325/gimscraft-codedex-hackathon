@@ -23,6 +23,7 @@ The following **additional** features are impleted:
 - [X] **Zoom out on mobile to view page**
 - [X] **Made sure every image in the page is less than 300kb except for the ~600kb header image**
 - [X] **Used color palettes similar to what the video showed**
+- [X] **Responsive website and works for mobile**
 
 
 ## Works Cited
@@ -45,7 +46,7 @@ Some challenges I faced was with CSS and overflow X scrolling in images. I was a
 
 Describe some features you would include further if you had more time.
 
-I would like to incorporate more dynamic pages like making it mobile friendly using media queries if I had more time.
+I would like to incorporate more pages and add an puzzle game like feature where for every Brooklyn landmark the user gets right, they get to have a sneak peek at a new piece of clothing that will be at the stoop sale.
 
 ## Running the app
 
