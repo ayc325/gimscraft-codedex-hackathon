@@ -1,0 +1,7 @@
+@import "react-alice-carousel/lib/alice-carousel.css";
+
+#gallery{
+  width: 400px;
+  height: 400px;
+  object-fit: fill;
+}
