@@ -58,9 +58,19 @@ I also faced a challenge where the original slide carousel's arrows wouldn't wor
 
 I would like to incorporate more pages and add an puzzle game like feature where for every Brooklyn landmark the user gets right, they get to have a sneak peek at a new piece of clothing that will be at the stoop sale.
 
+## What each component does
+
+| Component | Description |
+|----------------|-------------|
+| `AboveTheFold` | Everything above the fold. Essentially what the user sees when they first land on the web-page. Includes the header image and title. Everything in this section is wrapped in `<header>` so it should be SEO compliant. |
+| `ClothingGallery2` | This was originally a very buggy ClothingGallery1 which is an image scroller. This revised version utilizes the Alice Carousel import to do that. It's also less buggy and is responsive across several devices. |
+| `Calendar` | Includes date and time and the **call-to-action** button for users to RSVP for the event and this also helps Chelsea and Lil anticipate how many people are coming. The `Map` function is implemented inside this section. |
+| `Map` | This is just customized embedded Google Maps. This was put into a component for modularity and reusablility throughout the program. |
+| `FaqData` | Contains an array for questions and answers for the `Faq` component to use. |
+| `Faq` | This is the Frequently Asked Questions section in the form of an accordion menu. |
+| `Footer` | This is the footer of the webpage. If this project were to have multiple pages, this could be reused. This component is also wrapped in the `<footer>` tag to hopefully be SEO compliant. |
+
 ## Running the app
 
 - npm install
 - npm run dev
-
-

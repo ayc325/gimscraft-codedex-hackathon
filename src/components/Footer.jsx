@@ -6,6 +6,7 @@ import instagram from "../assets/icons8-instagram.gif";
 
 const Footer = () => {
     return (
+        <footer>
       <div className = "logos">
             <div className = "actualLogos">
                 <a id = "github" target="_blank" href="https://github.com/ayc325/gimscraft-codedex-hackathon"><img id = 'gallery2' src={github}/></a>
@@ -19,6 +20,7 @@ const Footer = () => {
             </div>
             <p id = "caption">WebPage created by Angela Cui via Codedex Summer Hackathon</p>
         </div>
+        </footer>
     )
   }
   
