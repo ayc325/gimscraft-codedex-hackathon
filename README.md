@@ -24,6 +24,14 @@ The following **additional** features are impleted:
 - [X] **Made sure every image in the page is less than 300kb except for the ~600kb header image ensuring legacy platforms can access this website without much trouble**
 - [X] **Used color palettes similar to what the video showed**
 
+## Technologies Used
+
+- React Vite JSX
+- Lots of CSS
+- Google Maps Embed
+- Google Calendar Link
+- Other Imports listed in Works Cited
+
 
 ## Works Cited
 
